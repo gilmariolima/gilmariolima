@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4f8a,100:3a86ff&height=180&section=header&text=Gilmario%20Lima&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engenharia%20de%20Software%20•%20UFC%20Russas&descAlignY=58&descSize=16" width="100%" />
-
 <a href="https://github.com/gilmariolima">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3A86FF&center=true&vCenter=true&width=560&lines=Automatizo+tarefas+repetitivas;Front-end+%2B+scripts+%2B+Google+Sheets;Se+d%C3%A1+pra+fazer+3+vezes%2C+d%C3%A1+pra+automatizar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Gilmario;Estudante+de+Engenharia+de+Software;Desenvolvimento+web+e+full+stack;Sempre+automatizando+alguma+coisa" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<a href="https://github.com/gilmariolima?tab=followers"><img src="https://img.shields.io/github/followers/gilmariolima?label=Seguidores&style=social" alt="Seguidores" /></a>
+<a href="https://github.com/gilmariolima?tab=repositories"><img src="https://img.shields.io/github/stars/gilmariolima?affiliations=OWNER&label=Estrelas&style=social" alt="Estrelas" /></a>
+<img src="https://komarev.com/ghpvc/?username=gilmariolima&color=F85D7F&style=flat&label=Visitas" alt="Visitas" />
 
 </div>
 
@@ -17,61 +21,75 @@
 
 ---
 
-### Tecnologias
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,git,github,vscode&theme=dark" />
-</p>
+### Meus projetos
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</p>
+<a href="https://github.com/gilmariolima/hub-geral"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=hub-geral&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
+<a href="https://github.com/gilmariolima/clone-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=clone-checker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
+<a href="https://github.com/gilmariolima/Fila-tallos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=Fila-tallos&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
+<a href="https://github.com/gilmariolima/preencherContatoTallos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=preencherContatoTallos&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
+<a href="https://github.com/gilmariolima/Termo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=Termo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
+<a href="https://github.com/gilmariolima/abrir-edge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=abrir-edge&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
+
+<br/><br/>
+
+<a href="https://checker-full.onrender.com"><img src="https://img.shields.io/badge/Checker-Acessar%20o%20site-F85D7F?style=for-the-badge&logo=render&logoColor=white" /></a>
+<a href="https://github.com/gilmariolima?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-1F222E?style=for-the-badge&logo=github&logoColor=F8D866" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Ferramentas que uso
+
+**Linguagens**
+
+<a href="https://github.com/search?q=user%3Agilmariolima+language%3Ajavascript&type=code"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://github.com/search?q=user%3Agilmariolima+language%3Ahtml&type=code"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://github.com/search?q=user%3Agilmariolima+language%3Acss&type=code"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://github.com/search?q=user%3Agilmariolima+language%3Apython&type=code"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+
+**Back-end e plataformas**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+**Ferramentas**
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+
+</div>
 
 ---
 
-### Projetos em destaque
-
-| Projeto | O que faz |
-|---|---|
-| **Painel de Scripts** | Userscript modular (15 módulos, ~8 mil linhas) que automatiza tarefas de atendimento e venda de passagens |
-| **[Checker](https://checker-full.onrender.com)** · [repo](https://github.com/gilmariolima/clone-checker) | Ferramenta web de conferência de PDFs e datas, usando Google Sheets como banco de dados |
-| **Relatórios no Sheets** | Automação em Apps Script para relatórios por agente e acompanhamento de vendas e comissões |
-| **[Fila-tallos](https://github.com/gilmariolima/Fila-tallos)** · **[preencherContatoTallos](https://github.com/gilmariolima/preencherContatoTallos)** | Scripts que agilizam o atendimento em plataforma de chat |
-| **[Termo](https://github.com/gilmariolima/Termo)** | Jogo de adivinhar palavras inspirado no Wordle |
-| **[hub-geral](https://github.com/gilmariolima/hub-geral)** | Central reunindo meus projetos e utilitários |
-
----
+<div align="center">
 
 ### Estatísticas
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gilmariolima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmariolima&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" />
-</div>
+<img src="https://streak-stats.demolab.com?user=gilmariolima&theme=monokai-metallian&hide_border=true&short_numbers=true&locale=pt_BR" alt="Sequência de commits" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gilmariolima&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</div>
+<br/><br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilmariolima/gilmariolima/output/github-snake-dark.svg" />
-    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/gilmariolima/gilmariolima/output/github-snake.svg" />
-  </picture>
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gilmariolima&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmariolima&layout=compact&langs_count=8&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&locale=pt-br" />
 
----
+<br/><br/>
 
-<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gilmariolima&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" />
 
-Fale comigo: abra uma issue em qualquer repositório ou visite o **[Checker](https://checker-full.onrender.com)**
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=gilmariolima&color=3a86ff&style=flat-square&label=Visitas+ao+perfil" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,50:1b4f8a,100:0d1b2a&height=100&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilmariolima/gilmariolima/output/github-snake-dark.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/gilmariolima/gilmariolima/output/github-snake.svg" />
+</picture>
 
 </div>
