@@ -77,10 +77,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gilmariolima&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilmariolima/gilmariolima/output/github-snake-dark.svg" />
   <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/gilmariolima/gilmariolima/output/github-snake.svg" />
