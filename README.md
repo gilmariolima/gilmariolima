@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Gilmario;Estudante+de+Engenharia+de+Software;Desenvolvimento+web+e+full+stack;Sempre+automatizando+alguma+coisa" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<a href="https://github.com/gilmariolima?tab=followers"><img src="https://img.shields.io/github/followers/gilmariolima?label=Seguidores&style=social" alt="Seguidores" /></a>
-<a href="https://github.com/gilmariolima?tab=repositories"><img src="https://img.shields.io/github/stars/gilmariolima?affiliations=OWNER&label=Estrelas&style=social" alt="Estrelas" /></a>
-<img src="https://komarev.com/ghpvc/?username=gilmariolima&color=F85D7F&style=flat&label=Visitas" alt="Visitas" />
-
 </div>
 
 ---
