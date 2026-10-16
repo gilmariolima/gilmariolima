@@ -20,15 +20,12 @@
 ### Meus projetos
 
 <a href="https://github.com/gilmariolima/hub-geral"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=hub-geral&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
+<a href="https://github.com/gilmariolima/Elocin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=Elocin&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
 <a href="https://github.com/gilmariolima/clone-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=clone-checker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
-<a href="https://github.com/gilmariolima/Fila-tallos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=Fila-tallos&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
 <a href="https://github.com/gilmariolima/preencherContatoTallos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=preencherContatoTallos&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
-<a href="https://github.com/gilmariolima/Termo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=Termo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
-<a href="https://github.com/gilmariolima/abrir-edge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gilmariolima&repo=abrir-edge&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&locale=pt-br" /></a>
 
 <br/><br/>
 
-<a href="https://checker-full.onrender.com"><img src="https://img.shields.io/badge/Checker-Acessar%20o%20site-F85D7F?style=for-the-badge&logo=render&logoColor=white" /></a>
 <a href="https://github.com/gilmariolima?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-1F222E?style=for-the-badge&logo=github&logoColor=F8D866" /></a>
 
 </div>
