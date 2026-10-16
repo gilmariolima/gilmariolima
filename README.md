@@ -1,7 +1,9 @@
 <div align="center">
 
+<h1>Gilmario Lima</h1>
+
 <a href="https://github.com/gilmariolima">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Gilmario;Estudante+de+Engenharia+de+Software;Desenvolvimento+web+e+full+stack;Sempre+automatizando+alguma+coisa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&height=50&lines=Estudante+de+Engenharia+de+Software;Desenvolvimento+web+e+full+stack;Sempre+automatizando+alguma+coisa" alt="Typing SVG" />
 </a>
 
 </div>
