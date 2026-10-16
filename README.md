@@ -3,24 +3,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4f8a,100:3a86ff&height=180&section=header&text=Gilmario%20Lima&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engenharia%20de%20Software%20•%20UFC%20Russas&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://github.com/gilmariolima">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3A86FF&center=true&vCenter=true&width=560&lines=Automatizo+tarefas+repetitivas+%E2%9A%99%EF%B8%8F;Front-end+%2B+scripts+%2B+Google+Sheets;Se+d%C3%A1+pra+fazer+3+vezes%2C+d%C3%A1+pra+automatizar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3A86FF&center=true&vCenter=true&width=560&lines=Automatizo+tarefas+repetitivas;Front-end+%2B+scripts+%2B+Google+Sheets;Se+d%C3%A1+pra+fazer+3+vezes%2C+d%C3%A1+pra+automatizar" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software** na **UFC – Campus Russas**
-- ⚙️ Gosto de transformar trabalho manual em automação: userscripts, planilhas inteligentes e pequenos sistemas web
-- 🔬 TCC: comparando a **qualidade de código** entre projetos *vibe-coded* (feitos com IA) e escritos manualmente, com SonarQube e Radon
-- 🌱 Interesses: desenvolvimento web, front-end design, automação e matemática
-- 📍 Brasil
+- Estudante de **Engenharia de Software** na **UFC – Campus Russas**
+- Interesses: desenvolvimento web e full stack
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,git,github,vscode&theme=dark" />
@@ -36,20 +33,20 @@
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 | Projeto | O que faz |
 |---|---|
-| 🧩 **Painel de Scripts** | Userscript modular (15 módulos, ~8 mil linhas) que automatiza tarefas de atendimento e venda de passagens |
-| ✅ **[Checker](https://checker-full.onrender.com)** · [repo](https://github.com/gilmariolima/clone-checker) | Ferramenta web de conferência de PDFs e datas, usando Google Sheets como banco de dados |
-| 📊 **Relatórios no Sheets** | Automação em Apps Script para relatórios por agente e acompanhamento de vendas e comissões |
-| 💬 **[Fila-tallos](https://github.com/gilmariolima/Fila-tallos)** · **[preencherContatoTallos](https://github.com/gilmariolima/preencherContatoTallos)** | Scripts que agilizam o atendimento em plataforma de chat |
-| 🟩 **[Termo](https://github.com/gilmariolima/Termo)** | Jogo de adivinhar palavras inspirado no Wordle |
-| 🗂️ **[hub-geral](https://github.com/gilmariolima/hub-geral)** | Central reunindo meus projetos e utilitários |
+| **Painel de Scripts** | Userscript modular (15 módulos, ~8 mil linhas) que automatiza tarefas de atendimento e venda de passagens |
+| **[Checker](https://checker-full.onrender.com)** · [repo](https://github.com/gilmariolima/clone-checker) | Ferramenta web de conferência de PDFs e datas, usando Google Sheets como banco de dados |
+| **Relatórios no Sheets** | Automação em Apps Script para relatórios por agente e acompanhamento de vendas e comissões |
+| **[Fila-tallos](https://github.com/gilmariolima/Fila-tallos)** · **[preencherContatoTallos](https://github.com/gilmariolima/preencherContatoTallos)** | Scripts que agilizam o atendimento em plataforma de chat |
+| **[Termo](https://github.com/gilmariolima/Termo)** | Jogo de adivinhar palavras inspirado no Wordle |
+| **[hub-geral](https://github.com/gilmariolima/hub-geral)** | Central reunindo meus projetos e utilitários |
 
 ---
 
-### 📈 Estatísticas
+### Estatísticas
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gilmariolima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
@@ -71,7 +68,7 @@
 
 <div align="center">
 
-📫 Fale comigo: abra uma issue em qualquer repositório ou visite o **[Checker](https://checker-full.onrender.com)**
+Fale comigo: abra uma issue em qualquer repositório ou visite o **[Checker](https://checker-full.onrender.com)**
 
 <img src="https://komarev.com/ghpvc/?username=gilmariolima&color=3a86ff&style=flat-square&label=Visitas+ao+perfil" />
 
